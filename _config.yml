@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Kang Fu / Phd Student"
+title                    : "Kang Fu / PhD Student"
 title_separator          : "-"
 name                     : &name "Kang Fu"
 description              : &description "personal description"
