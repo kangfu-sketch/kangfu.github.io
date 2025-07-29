@@ -1,13 +1,15 @@
 ---
 permalink: /
-title: "Welcome to the scholar space of Kang Fu"
+title: "Welcome to the Scholar Space of Kang Fu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello! This is Kang Fu (符康, E-mail: kangfu@bjtu.edu.cn). I'm a second year PhD student in Computer science and technology of Beijing Jiaotong University, advised by Prof. Yidong Li (李浥东). Before that, I got my Master degree in Computer science and technology of Lanzhou Jiaotong University, advised by Prof. Guanghui Yan (闫光辉). My research interest includes Recommendation System, Federated Learning, and Graph Learning.
+Hello! I'm Kang Fu (符康, E-mail: kangfu@bjtu.edu.cn), a second-year Ph.D. student in Computer Science and Technology at Beijing Jiaotong University, advised by Prof. Yidong Li (李浥东).
+Previously, I received my Master's degree in Computer Science and Technology from Lanzhou Jiaotong University, where I was advised by Prof. Guanghui Yan (闫光辉).
+My research interests lie in Recommendation Systems, Federated Learning, and Graph Learning.
 
 Educations
 ======
