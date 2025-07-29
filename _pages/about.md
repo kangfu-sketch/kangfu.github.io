@@ -11,9 +11,8 @@ Hello! This is Kang Fu (符康, E-mail: kangfu@bjtu.edu.cn). I'm a second year P
 
 Educations
 ======
-2024.09 - 2028.06 Ph.D. Student at Beijing Jiaotong University, China.
+2024.09 - 2028.06 Ph.D. Student at Beijing Jiaotong University, China.<br>
 
-2021.09 - 2024.06 M.S. Student at Lanzhou Jiaotong University, China.
+2021.09 - 2024.06 M.S. Student at Lanzhou Jiaotong University, China.<br>
 
-2017.09 - 2021.06 B.S. Student at Lanzhou Jiaotong University, China.
-
+2017.09 - 2021.06 B.S. Student at Lanzhou Jiaotong University, China.<br>
